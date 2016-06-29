@@ -1,0 +1,6 @@
+framework module Pods_FooTV {
+  umbrella header "Pods-FooTV-umbrella.h"
+
+  export *
+  module * { export * }
+}
